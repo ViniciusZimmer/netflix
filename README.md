@@ -3,6 +3,7 @@
 -----------------------------------------------------------------------------<br>
 <p align="center">💻 Link do repositório: <br></p>
 https://viniciuszimmer.github.io/Netflix/
-<br>
+
+
 ![net](https://user-images.githubusercontent.com/73594036/112884720-3a2e0f00-90a6-11eb-818d-77899db4be88.png)
 
